@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LeafPic</string>
+    <string name="home">Home</string>
+    <string name="Local">Local Folders</string>
+    <string name="Hidden">Hidden Folders</string>
+    <string name="Wallpapers">Wallpapers</string>
+    <string name="Donate">Donate</string>
+    <string name="Settings">Settings</string>
+    <string name="About">About</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Coming Soon!!</string>
+    <string name="settings_button_text">Send to Main</string>
+</resources>
